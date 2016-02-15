@@ -1,0 +1,35 @@
+**************************
+*****Verdadero Falso:*****
+**************************
+
+
+::CMP-U4-0::Pregunta.
+{FALSE}
+
+
+
+*************************
+*****Opción Múltple:*****
+*************************
+
+::CMP-U4-0::Pregunta
+{
+~ Incorrecta
+~ Incorrecta
+~ Incorrecta
+= Correcta
+}
+
+
+
+***************************
+*******Emparejar******
+***************************
+
+::CMP-U4-0::Pregunta
+{
+= Opción 1 -> Opción 1
+= Opción 2 -> Opción 2
+= Opción 3 -> Opción 3
+= Opción 4 -> Opción 4
+}
