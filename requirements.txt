@@ -1,0 +1,19 @@
+# Dependencias para el Extractor de Reportes Académicos de Moodle
+# =============================================================
+
+# Librerías principales
+requests>=2.28.0         # Para llamadas HTTP a la API de Moodle
+pandas>=1.5.0            # Para manipulación y análisis de datos
+openpyxl>=3.0.0          # Para generar archivos Excel (.xlsx)
+
+# Librerías de utilidad
+typing>=3.7.0            # Para type hints (incluido en Python 3.7+)
+
+# Opcional: para logging avanzado
+colorlog>=6.0.0          # Para logs con colores (opcional)
+
+# Nota: Para Google Colab, estas librerías ya están instaladas:
+# - requests
+# - pandas
+# - openpyxl
+# Solo necesitas instalar las que no estén disponibles
